@@ -1,7 +1,7 @@
 Maksymilian Mikolajczak - Full Stack Developer
 Portfolio Preview
 
-📞 Contact Information
+📞 <b>Contact Information</b>
 
 Phone: 07342643155
 
