@@ -15,7 +15,7 @@ Motivated and ambitious full-stack developer with a solid academic foundation an
 🎓 Education
 University
 City University of London
-Bachelor of Science in Mathematics (Honors) | 2016-2019
+Bachelor of Science in Mathematics (Honors)
 Degree Classification: 2:1
 Emphasis on problem-solving skills demonstrated through coursework in Programming, Advanced Complex Analysis, Operational Research, Discrete Mathematics, Game Theory, and Differential Equations. Dissertation: "Wallpaper Patterns and Methodical Systemization".
 College
