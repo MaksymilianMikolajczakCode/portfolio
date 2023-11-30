@@ -9,14 +9,14 @@ Email: maks.mikolajczak96@gmail.com
 
 Location: London
 
-🌟 Professional Profile
+🌟 <b>Professional Profile</b>
 
 Motivated and ambitious full-stack developer with a solid academic foundation and a profound passion for the programming industry. Armed with exceptional academic credentials and a robust portfolio highlighting significant MERN stack projects, I'm eager to contribute and excel in the field of web development. My enthusiasm for learning new technologies and my proficiency in mathematics make me an invaluable asset to any web development team.
 
 
-🎓 Education
+🎓 <b>Education</b>
 
-University
+<b>University</b>
 
 City University of London
 
@@ -25,7 +25,7 @@ Degree Classification: 2:1
 
 Emphasis on problem-solving skills demonstrated through coursework in Programming, Advanced Complex Analysis, Operational Research, Discrete Mathematics, Game Theory, and Differential Equations. Dissertation: "Wallpaper Patterns and Methodical Systemization".
 
-College
+<b>College</b>
 
 BSix Sixth Form College
 
@@ -33,15 +33,14 @@ A-Level in Further Mathematics, Mathematics, Business Studies, Accounting
 
 Active participation in football, mathematics, and chess clubs.
 
-🚀 Core Skills & Achievements
+🚀 <b>Core Skills & Achievements</b>
 
 Technical Skills: React, JavaScript, MongoDB, Express, Node.js, TypeScript, Next.js
 
-Portfolio: View Portfolio
 
 Key Attributes: Excellent problem-solving and critical thinking abilities.
 
-🌐 Hobbies & Interests
+🌐 <b>Hobbies & Interests</b>
 
 Languages: Fluent in English and native Polish.
 
