@@ -157,11 +157,11 @@ p {
     margin-top: 20px;
     width: 100%;
 }
-
 .project-image2 {
-    margin-top: 20px;
+    margin-top: 10px;
     width: 60%;
     justify-content: left;
+    max-height: 150px;
 }
 
 hr {
