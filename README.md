@@ -30,10 +30,6 @@ College
 BSix Sixth Form College
 
 A-Level in Further Mathematics, Mathematics, Business Studies, Accounting 
-Secondary School
-
-Arts and Media School Islington
-
 
 Active participation in football, mathematics, and chess clubs.
 
