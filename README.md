@@ -1,5 +1,6 @@
 Maksymilian Mikolajczak - Full Stack Developer
-Portfolio Preview
+
+live portfolio - https://maksymilianmikolajczak.netlify.app/
 
 📞 <b>Contact Information</b>
 
